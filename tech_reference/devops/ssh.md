@@ -1,0 +1,1 @@
+[Linux中禁止root用户通过ssh远程登陆_linux 禁止root ssh_hsc个人资料库的博客-CSDN博客](https://blog.csdn.net/weixin_40939076/article/details/98687369#:~:text=要 禁止Linux中 的 root用户远程 登录，可以采取以下步骤： 1. 用具有管理员权限的 用户,Root Login这一行，如果该行前面有%23，则去掉注释。 4. 将Permit Root Login后面的yes改为no，即将允许 root用户远程 登录改为不允许。)

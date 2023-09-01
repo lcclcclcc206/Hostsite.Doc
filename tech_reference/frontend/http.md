@@ -6,6 +6,8 @@
 
 [HTTP 响应状态码 - HTTP | MDN (mozilla.org)](https://developer.mozilla.org/zh-CN/docs/Web/HTTP/Status)
 
+[「1.4万字」玩转前端 Video 播放器 | 多图预警 - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/160949364)
+
 ## Axios
 
 [拦截器 | Axios 中文文档 | Axios 中文网 (axios-http.cn)](https://www.axios-http.cn/docs/interceptors)
