@@ -3,11 +3,11 @@
     "dir": [
         {
             "name": "home",
-            "path": "/home"
+            "path": "/home/hostsite"
         },
         {
             "name": "storage",
-            "path": "/home/storage"
+            "path": "/home/hostsite/storage"
         }
     ]
 }

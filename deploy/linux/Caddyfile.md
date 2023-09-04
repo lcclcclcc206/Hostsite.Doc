@@ -2,8 +2,9 @@
 
 ```Caddyfile
 {
+	admin :2200
     log {
-        output file "/home/Hostsite/CaddyServer/log/logcaddy" {
+        output file "/home/hostsite/CaddyServer/log/logcaddy" {
             roll_size 1MiB
             roll_keep_for 720h
         }
@@ -21,12 +22,12 @@
         reverse_proxy 127.0.0.1:8188
     }
     handle {
-        root * `/home/Hostsite/WebUI/`
+        root * `/home/hostsite/WebUI/`
         try_files {path} /index.html
         file_server
     }
     log {
-        output file "/home/Hostsite/CaddyServer/log/logserver" {
+        output file "/home/hostsite/CaddyServer/log/logserver" {
             roll_size 1MiB
             roll_keep_for 720h
         }
